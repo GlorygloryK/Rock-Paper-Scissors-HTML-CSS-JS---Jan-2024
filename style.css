@@ -1,0 +1,28 @@
+body{
+background-color: aquamarine;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+#welcome_intro_heading, #game_tips{
+    text-align:center;
+    color:darkblue;
+}
+
+
+#computer_choice{
+    color:purple;
+
+}
+
+#your_choice{
+    color: red;
+
+}
+
+#Rock, #Paper, #Scissors {
+    color:blue;
+    background-color:whitesmoke;
+    border: radius 90%; 
+    justify-content: center;
+}
